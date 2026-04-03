@@ -43,3 +43,6 @@ Raw data often appears usable but contains hidden issues such as duplicates, mis
 
 ## Conclusion
 Accurate analysis depends on clean, validated data. This project demonstrates how structured data cleaning directly impacts the quality of business insights.
+
+## Reflection
+This project reinforces the importance of data cleaning in ensuring accurate and reliable business insights.
