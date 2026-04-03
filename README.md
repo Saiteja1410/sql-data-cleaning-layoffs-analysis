@@ -1,3 +1,11 @@
+## Project Type
+Data Cleaning & Exploratory Data Analysis (SQL)
+
+## Tools Used
+- MySQL
+- SQL
+
+
 # SQL Data Cleaning & Analysis – Layoffs Dataset
 
 ## Overview
